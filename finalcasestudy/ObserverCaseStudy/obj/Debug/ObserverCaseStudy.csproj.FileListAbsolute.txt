@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\finalcasestudy\ObserverCaseStudy\bin\Debug\ObserverCaseStudy.exe.config
+C:\Users\DELL\source\repos\finalcasestudy\ObserverCaseStudy\bin\Debug\ObserverCaseStudy.exe
+C:\Users\DELL\source\repos\finalcasestudy\ObserverCaseStudy\bin\Debug\ObserverCaseStudy.pdb
+C:\Users\DELL\source\repos\finalcasestudy\ObserverCaseStudy\obj\Debug\ObserverCaseStudy.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\finalcasestudy\ObserverCaseStudy\obj\Debug\ObserverCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\finalcasestudy\ObserverCaseStudy\obj\Debug\ObserverCaseStudy.exe
+C:\Users\DELL\source\repos\finalcasestudy\ObserverCaseStudy\obj\Debug\ObserverCaseStudy.pdb
